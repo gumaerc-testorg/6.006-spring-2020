@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Algorithms and Computation'
 uid: b3d2864a-af50-0636-f6aa-d624a7c325a5
 video_files:
   archive_url: https://archive.org/download/MIT6.006S20/MIT6_006S20_02_04_Lecture_1_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-spring-2020/dd0823c3851b5df3a7e0b447eaa76050_ZA-tUyM_y7s.vtt
+  video_captions_file: /courses/6-006-introduction-to-algorithms-spring-2020/dd0823c3851b5df3a7e0b447eaa76050_ZA-tUyM_y7s.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ZA-tUyM_y7s/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-spring-2020/aed520a9bd6836052d2e2da9a797235b_ZA-tUyM_y7s.pdf
+  video_transcript_file: /courses/6-006-introduction-to-algorithms-spring-2020/aed520a9bd6836052d2e2da9a797235b_ZA-tUyM_y7s.pdf
 video_metadata:
   youtube_id: ZA-tUyM_y7s
 ---

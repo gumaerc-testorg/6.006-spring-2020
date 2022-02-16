@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-spring-2020/5148975023959ffe4b43f52277ed8549_e98MPnMHLxE.pdf
+file: /media/courses/6-006-introduction-to-algorithms-spring-2020/5148975023959ffe4b43f52277ed8549_e98MPnMHLxE.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 51489750-2395-9ffe-4b43-f52277ed8549

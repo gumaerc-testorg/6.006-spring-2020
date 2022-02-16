@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-spring-2020/9749b7108850c4a10833c99875b42639_MIT6_006S20_prob3.pdf
+file: /media/courses/6-006-introduction-to-algorithms-spring-2020/9749b7108850c4a10833c99875b42639_MIT6_006S20_prob3.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Practice Problems
+parent_type: CourseSection
 resourcetype: Document
 title: 6.006 Introduction to Algorithms, Problem Session 3
 uid: 9749b710-8850-c4a1-0833-c99875b42639

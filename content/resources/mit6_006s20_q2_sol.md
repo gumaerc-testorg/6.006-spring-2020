@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-spring-2020/20ec7b2635196818e782f3e1bfde21bf_MIT6_006S20_q2_sol.pdf
+file: /media/courses/6-006-introduction-to-algorithms-spring-2020/20ec7b2635196818e782f3e1bfde21bf_MIT6_006S20_q2_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Quizzes
+parent_type: CourseSection
 resourcetype: Document
 title: 6.006 Introduction to Algorithms, Quiz 2 Solutions
 uid: 20ec7b26-3519-6818-e782-f3e1bfde21bf

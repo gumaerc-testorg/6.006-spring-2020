@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Practice Problems
 uid: 60da50f1-00f1-a813-476b-6e6a65e98226
 ---
