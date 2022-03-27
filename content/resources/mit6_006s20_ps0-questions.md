@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bdb6c046-d849-dd11-ab64-cdea4975d145
 resourcetype: Document
 title: 6.006 Introduction to Algorithms, Problem Set 0
 uid: 60f0a029-ab15-4553-cad5-1b54cc25605b

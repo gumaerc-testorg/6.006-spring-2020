@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Dynamic Programming, Part 4: Rods, Subset Sum, Pseudopolynomial'
 uid: 162fa935-78fe-6c77-3f5f-9e41af861114
 video_files:

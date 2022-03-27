@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: 400e6a8d-35c4-e497-f645-fe19629c58f3
 resourcetype: Document
 title: 6.006 Introduction to Algorithms, Quiz 2 Review Solutions
 uid: f1c1b7a2-eaf6-6858-74a4-cae34c68b090

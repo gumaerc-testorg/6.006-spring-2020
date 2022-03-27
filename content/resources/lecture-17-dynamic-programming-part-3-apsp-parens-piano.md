@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Dynamic Programming, Part 3: APSP, Parens, Piano'
 uid: c1c297db-7d00-fdd3-5bd5-f34dadacdc9b
 video_files:

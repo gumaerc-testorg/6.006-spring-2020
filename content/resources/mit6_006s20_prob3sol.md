@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Practice Problems
 parent_type: CourseSection
+parent_uid: 60da50f1-00f1-a813-476b-6e6a65e98226
 resourcetype: Document
 title: 6.006 Introduction to Algorithms, Problem Session 3 Solutions
 uid: f8b8fef7-a383-8b47-1c82-c5bdcb6570f9

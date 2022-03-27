@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Dynamic Programming, Part 2: LCS, LIS, Coins'
 uid: 774d2b6a-a2a6-2c33-5bbb-0080c2f3da6d
 video_files:
