@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Hashing allows for faster search and dynamic operations on data structures, arrays, and sorted arrays. This lecture discusses comparison models, decision trees, and hash functions.
 
 **Instructor:** Jason Ku
+
+
+

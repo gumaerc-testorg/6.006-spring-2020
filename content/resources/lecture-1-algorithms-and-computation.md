@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 The goal of this introductions to algorithms class is to teach you to solve computation problems and communicate that your solutions are correct and efficient. Models of computation, data structures, and algorithms are introduced.
 
 **Instructor:** Jason Ku
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This class covers graph definitions, neighbor sets and adjacencies, graph representations in data structures, and paths. It also discusses shortest paths trees and breadth-first search.
 
 **Instructor:** Justin Solomon
+
+
+

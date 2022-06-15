@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-006-introduction-to-algorithms-spring-2020/56f5e09aafb63dae6059240edcb6f3e7_r4-cftqTcdI.srt
+file: /courses/6-006-introduction-to-algorithms-spring-2020/56f5e09aafb63dae6059240edcb6f3e7_r4-cftqTcdI.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

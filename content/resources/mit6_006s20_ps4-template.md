@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-006-introduction-to-algorithms-spring-2020/f17f5875e08b3c968496d54e79b229c3_MIT6_006S20_ps4-template.zip
+file: /courses/6-006-introduction-to-algorithms-spring-2020/f17f5875e08b3c968496d54e79b229c3_MIT6_006S20_ps4-template.zip
 file_type: application/zip
 learning_resource_types:
 - Assignments

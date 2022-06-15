@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This lecture discusses computational complexity and introduces terminology: P, NP, EXP, R. These terms are applied to the concepts of hardness and completeness. The lecture ends with discussion on reductions.
 
 **Instructor:** Erik Demaine
+
+
+

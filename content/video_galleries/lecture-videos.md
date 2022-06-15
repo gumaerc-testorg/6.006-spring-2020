@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: ' Complete lecture and problem session videos for 6.006 Introduction
+  to Algorithms.'
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

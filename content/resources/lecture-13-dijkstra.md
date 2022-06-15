@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This class discusses a fourth weighted single-source shortest path algorithm: Dijkstra's algorithms. Non-negative edge weights are introduced. There is a worked example of applying Dijkstra's algorithm.
 
 **Instructor:** Dr. Jason Ku
+
+
+

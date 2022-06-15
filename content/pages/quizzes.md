@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Quizzes with solutions for 6.006 Introduction to Algorithms.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -24,39 +25,18 @@ Quiz
 {{< tdopen >}}
 
 
-[Quiz 1 Review (PDF)]({{< baseurl >}}/resources/mit6_006s20_review1)
+{{% resource_link 42d755fd-6b9c-d6f7-38e3-615b57346ee5 "Quiz 1 Review (PDF)" %}}
 
-[Quiz 1 Review Solutions (PDF)]({{< baseurl >}}/resources/mit6_006s20_review1_sol)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit6_006s20_q1)
-
-[Quiz 1 Solutions (PDF)]({{< baseurl >}}/resources/mit6_006s20_q1_sol)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-[Quiz 2 Review (PDF)]({{< baseurl >}}/resources/mit6_006s20_review2)
-
-[Quiz 2 Review Solutions (PDF)]({{< baseurl >}}/resources/mit6_006s20_review2_sol)
+{{% resource_link f2e772e7-fffc-b0ca-13a2-7ec29d4f2279 "Quiz 1 Review Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit6_006s20_q2)
+{{% resource_link f7623e48-013c-44b8-2d0f-208d50c0eac7 "Quiz 1 (PDF)" %}}
 
-[Quiz 2 Solutions (PDF)]({{< baseurl >}}/resources/mit6_006s20_q2_sol)
+{{% resource_link d2f9999a-0d11-76c0-c1c0-f2ef55f52ad5 "Quiz 1 Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -66,18 +46,39 @@ Quiz
 {{< tdopen >}}
 
 
-[Quiz 3 Review (PDF)]({{< baseurl >}}/resources/mit6_006s20_review3)
+{{% resource_link 2c6e0b00-b144-b98d-218b-f028dd516579 "Quiz 2 Review (PDF)" %}}
 
-[Quiz 3 Review Solutions (PDF)]({{< baseurl >}}/resources/mit6_006s20_review3_sol)
+{{% resource_link f1c1b7a2-eaf6-6858-74a4-cae34c68b090 "Quiz 2 Review Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz 3 (PDF)]({{< baseurl >}}/resources/mit6_006s20_q3)
+{{% resource_link d89a357c-7467-aa03-eef4-cc0e7d2a310b "Quiz 2 (PDF)" %}}
 
-[Quiz 3 Solutions (PDF)]({{< baseurl >}}/resources/mit6_006s20_q3_sol)
+{{% resource_link 20ec7b26-3519-6818-e782-f3e1bfde21bf "Quiz 2 Solutions (PDF)" %}}
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+{{% resource_link c6777a33-3092-56fd-9ab0-e2e345209f81 "Quiz 3 Review (PDF)" %}}
+
+{{% resource_link 1564725a-1ae8-9d70-18c0-89105e2804e2 "Quiz 3 Review Solutions (PDF)" %}}
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+{{% resource_link 1b047c0a-a693-8a07-6ac8-dd588cdc64a5 "Quiz 3 (PDF)" %}}
+
+{{% resource_link e70afb59-1cbd-e3ba-4509-598c2c148186 "Quiz 3 Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -94,9 +95,9 @@ No reviews
 {{< tdopen >}}
 
 
-[Final Exam (PDF)]({{< baseurl >}}/resources/mit6_006s20_final)
+{{% resource_link e03194e5-1086-6d81-da10-71da884876e3 "Final Exam (PDF)" %}}
 
-[Final Exam Solutions (PDF)]({{< baseurl >}}/resources/mit6_006s20_final_sol)
+{{% resource_link e882f34a-3f46-aa98-6295-3616f6de1c57 "Final Exam Solutions (PDF)" %}}
 
 
 {{< tdclose >}}

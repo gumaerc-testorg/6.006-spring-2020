@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This is the third of four lectures on dynamic programming. This focusses on applying subproblem constraints and expansions to example problems including, Bellman-Ford SSSP, Floyd-Warshall APSP, arithmetic parenthesization, and piano/guitar fingering.
 
 **Instructor:** Erik Demaine
+
+
+

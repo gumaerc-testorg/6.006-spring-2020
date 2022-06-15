@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This lecture introduces a single source shortest path algorithm that works for general graphs. The process, correctness, and running time of the Bellman-Ford algorithm is discussed.
 
 **Instructor:** Jason Ku
+
+
+

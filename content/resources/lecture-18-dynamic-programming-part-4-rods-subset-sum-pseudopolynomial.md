@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This is the fourth and final lecture on dynamic programming. This class focusses on integer subproblems and pseudopolynomial time. Two worked examples are given: rod cutting and subset sum.
 
 **Instructor:** Erik Demaine
+
+
+

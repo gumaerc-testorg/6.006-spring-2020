@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 In this lecture, Erik Demaine, Jason Ku, and Justin Solomon talk about their own research in algorithms. This includes origami, folding designs, and applied geometry.
 
 **Instructors:** Erik Demaine, Jason Ku, and Justin Solomon
+
+
+

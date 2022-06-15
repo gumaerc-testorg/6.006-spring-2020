@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Stored sets sorted by key allows for faster searching. This lecture covers how to construct a sorted array efficiently and the types of sorts.
 
 **Instructor:** Justin Solomon
+
+
+

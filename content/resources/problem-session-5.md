@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Five example problems are worked. Topics include graph radius, graph schematics, full breadth-first search, and full depth-first search.
 
 **Instructor:** Justin Solomon
+
+
+

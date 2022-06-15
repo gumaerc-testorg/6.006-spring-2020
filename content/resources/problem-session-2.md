@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Four examples of worked problems are given. These focus on solving recurrences and the Master Theorem.
 
 **Instructor:** Justin Solomon
+
+
+

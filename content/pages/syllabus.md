@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Syllabus and course description for 6.006 Introduction to Algorithms.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,10 +17,10 @@ Recitations: 1 hr / session; 2 sessions / week
 Prerequisites
 -------------
 
-*   _[6.0001 Introduction to Computer Science and Programming in Python](/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)_:  Basic experience programming in Python 3.
-*   _[6.042J Mathematics for Computer Science](/courses/6-042j-mathematics-for-computer-science-spring-2015/)_: Basic knowledge of discrete mathematics: set theory, relations and logic, combinatorics, proofs, recursion, number theory, graph theory, and probability.
+*   _[6.0001 Introduction to Computer Science and Programming in Python](/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016)_:  Basic experience programming in Python 3.
+*   _[6.042J Mathematics for Computer Science](/courses/6-042j-mathematics-for-computer-science-spring-2015)_: Basic knowledge of discrete mathematics: set theory, relations and logic, combinatorics, proofs, recursion, number theory, graph theory, and probability.
 
-We strongly caution against taking 6.006 before having fulfilled the listed prerequisites. We will evaluate your understanding of the prerequisite material via a short [Problem Set 0 assignment]({{< baseurl >}}/pages/assignments). All students must submit this evaluation, regardless of prerequisite status. We will assign each submission a letter grade. If you receive a C or below on the assignment, you will need to meet with a staff member to review your performance before you will be allowed to take the class. We will not grade any other assignments from you until a good faith attempt of Problem Set 0 has been submitted. The grade for this assignment will NOT affect your final grade in the class, but turning it in is required for taking this class.
+We strongly caution against taking 6.006 before having fulfilled the listed prerequisites. We will evaluate your understanding of the prerequisite material via a short {{% resource_link bdb6c046-d849-dd11-ab64-cdea4975d145 "Problem Set 0 assignment" %}}. All students must submit this evaluation, regardless of prerequisite status. We will assign each submission a letter grade. If you receive a C or below on the assignment, you will need to meet with a staff member to review your performance before you will be allowed to take the class. We will not grade any other assignments from you until a good faith attempt of Problem Set 0 has been submitted. The grade for this assignment will NOT affect your final grade in the class, but turning it in is required for taking this class.
 
 Course Description
 ------------------

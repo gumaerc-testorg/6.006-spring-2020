@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This builds on the lecture on improving find times and discusses how to achieve a faster sort. Direct access array sorts, tuple sorts, counting sorts, and radix sorts are discussed.
 
 **Instructor:** Jason Ku
+
+
+

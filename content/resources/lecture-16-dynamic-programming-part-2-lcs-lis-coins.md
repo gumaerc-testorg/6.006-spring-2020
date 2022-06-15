@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This is the second of four lectures on dynamic programming. This introduces multiple sequence, substring subproblems, and parent pointers. Three examples of subproblem constraints and expansion are given.
 
 **Instructor:** Erik Demaine
+
+
+

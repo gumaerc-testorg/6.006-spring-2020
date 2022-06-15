@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This lecture reviews the main concepts and learning goals for the course. Students should be able to solve hard computational problems, argue an algorithm is correct, argue an algorithm is "good," and effectively communicate the above.
 
 **Instructor:** Jason Ku
+
+
+

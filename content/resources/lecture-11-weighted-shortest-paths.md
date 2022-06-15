@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 This lecture discusses weighted graphs and weighted paths. This prepares for the next four lectures, which are on algorithms to find shortest-path weights in weighted graphs.
 
 **Instructor:** Jason Ku
+
+
+
