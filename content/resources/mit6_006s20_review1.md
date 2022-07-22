@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2020/42d755fd6b9cd6f738e3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection

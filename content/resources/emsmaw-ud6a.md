@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-006-introduction-to-algorithms-spring-2020/49b6d67b6f2da0443dadb57b01b351d2_EmSmaW-ud6A.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

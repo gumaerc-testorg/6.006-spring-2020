@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 This is the second lecture on binary trees. This covers subtree augmentation and sequence binary trees with subtree sizes. Rotations, rebalancing, and height augmentation are used to achieve height balance (AVL).
 
 **Instructor:** Erik Demaine
-
-
 

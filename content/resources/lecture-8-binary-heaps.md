@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Prof. Demaine discusses priority queue interfaces and sorting algorithms. Algorithms include AVL sort for set AVL trees, selection sort for arrays, insertion sort for sorted arrays, and heap sort for binary heaps.
 
 **Instructor:** Erik Demaine
-
-
 

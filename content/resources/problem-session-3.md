@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Five examples of worked problems are given. Topics include drawing pictures of hash tables and reductions from set (hashing bounds) to sequence.
 
 **Instructor:** Erik Demaine
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 This session focuses on preparing for the quiz. High-level concepts are discussed and example problems are worked. Topics include graph problems, topological sort, Bellman-Ford, and weighted graphs.
 
 **Instructor:** Jason Ku
-
-
 

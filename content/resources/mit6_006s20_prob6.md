@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-006-introduction-to-algorithms-spring-2020/21a093e709c08e5d196970aef23c1148_MIT6_006S20_prob6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Practice Problems
 parent_type: CourseSection

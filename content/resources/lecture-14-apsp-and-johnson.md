@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 This lecture focuses on solving any all-pairs shortest paths (APSP) in weighted graphs. Johnson's algorithm is introduced.
 
 **Instructor:** Jason Ku
-
-
 

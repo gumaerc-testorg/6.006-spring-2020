@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2020/97dc64778477b4f9522a
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

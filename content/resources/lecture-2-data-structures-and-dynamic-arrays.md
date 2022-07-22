@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Data structures are ways to store data with algorithms that support operations on the data. These collection of sorted operations are interfaces. This class goes over two main interfaces: sequence and set.
 
 **Instructor:** Erik Demaine
-
-
 

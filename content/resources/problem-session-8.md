@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Four example problems are worked. Topics include solving recursively, O(n)-time dynamic programming, topological order, and subproblems.
 
 **Instructor:** Justin Solomon
-
-
 

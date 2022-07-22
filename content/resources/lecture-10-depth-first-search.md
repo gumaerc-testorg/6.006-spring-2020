@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 This class builds on the previous lecture of breadth-first search (BFS) by introducing depth-first search (DFS) and full-BFS and full-DFS. The lecture continues with topological sorts and cycle detection.
 
 **Instructor:** Justin Solomon
-
-
 
