@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Calendar of lectures, recitations, and key dates for 6.006 Introduction
+  to Algorithms.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7d2ea4af-b24a-df20-2423-9a0889bc50ab
 ---
