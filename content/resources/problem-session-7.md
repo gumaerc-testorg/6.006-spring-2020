@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: true
 end_time: ''
 file: null
+file_size: '200896209'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Problem Session 7
+title: Problem Session 7 (old)
 uid: 91c27d59-92fa-4741-854d-df2d3061c4de
 video_files:
   archive_url: https://archive.org/download/MIT6.006S20/MIT6_006S20_04_07_Problem_Session_7_300k.mp4
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: WO6vQJ6Rhm8
 ---
-
 Five example programs are worked. Topics include Dijkstra algorithm, weighted graph radius, weighted ratios, and Johnson's algorithm.
 
 **Instructor:** Justin Solomon
-

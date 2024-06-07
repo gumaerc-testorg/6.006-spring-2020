@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-006-introduction-to-algorithms-spring-2020/d0d8c112ee8e971b9dea560891f7c1da_MIT6_006S20_prob8.pdf
+file_size: 216190
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

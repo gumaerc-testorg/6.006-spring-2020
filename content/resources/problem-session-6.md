@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: true
 end_time: ''
 file: null
+file_size: null
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Problem Session 6
+title: Problem Session 6 (old)
 uid: 59c0bc99-e8a9-eecf-d996-de4d46ccfb4e
 video_files:
   archive_url: https://archive.org/download/MIT6.006S20/MIT6_006S20_04_06_Problem_Session_6_300k.mp4
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: kshe8d8rxHo
 ---
-
 Five example problems are worked. Topics include topological ordering, DAG relaxation, Bellman-Ford, and Python code.
 
 **Instructor:** Justin Solomon
-

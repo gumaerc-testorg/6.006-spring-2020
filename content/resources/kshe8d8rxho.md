@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-006-introduction-to-algorithms-spring-2020/ce5a8824afabf9a9f778e46ff508157c_kshe8d8rxHo.srt
+file_size: 135145
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: video_gallery
 description: ' Complete lecture and problem session videos for 6.006 Introduction
   to Algorithms.'
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -28,24 +29,22 @@ videos:
   - 74208ac1-6ec3-d120-5b14-1ccaf62e29d0
   - 9298c70a-f979-5e84-e5b7-3cb9f3b7f175
   - 3fd3c005-8e62-432b-0136-da3cf9680055
-  - 59c0bc99-e8a9-eecf-d996-de4d46ccfb4e
   - 878d0905-d456-1709-d07a-3f27c9156d12
-  - 91c27d59-92fa-4741-854d-df2d3061c4de
+  - ec057378-a193-4baf-9072-777f0dc321bc
   - ac276f1d-9101-4856-5491-5437d9359ffe
   - b52d05d2-adf5-b291-c5a5-57b45dbffb38
   - a378dfbd-3b9e-96da-35fd-c8897b835f4a
   - 774d2b6a-a2a6-2c33-5bbb-0080c2f3da6d
-  - 8a0612a8-e059-e961-52e3-052176b7090a
+  - 71f23f4d-8ca6-49ab-a9d1-a4cabfa7b35c
   - c1c297db-7d00-fdd3-5bd5-f34dadacdc9b
   - 162fa935-78fe-6c77-3f5f-9e41af861114
   - bb5b53f3-7876-4fc1-9eb4-bc45581f88ef
+  - 8268c520-5b22-4299-b893-63fb67216ef1
   - be3e2dca-938a-6ce9-7225-466620b9247d
   - fa43c781-bcf8-34c3-00c6-d4b265a54ab3
   - 7d246bd6-01a5-4a7f-1fa9-247e10c1de02
   website: 6-006-introduction-to-algorithms-spring-2020
 ---
-
-Due to COVID-19, in-person classes were suspended mid-way through the semester. Lectures continued to be recorded in a traditional style.
+Due to COVID-19, in-person classes were suspended mid-way through the semester. Lectures continued to be recorded in a traditional style. Problem Session 6 is unavailable.
 
 {{< video-gallery "2dd8a6bf-697c-cc23-b282-ae6f9dec5b6f" >}}
-
