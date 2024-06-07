@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: true
 end_time: ''
 file: null
+file_size: '216405558'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Problem Session 8
+title: Problem Session 8 (old)
 uid: 8a0612a8-e059-e961-52e3-052176b7090a
 video_files:
   archive_url: https://archive.org/download/MIT6.006S20/MIT6_006S20_04_17_Problem_Session_8_300k.mp4
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: l_A-ig1n8CM
 ---
-
 Four example problems are worked. Topics include solving recursively, O(n)-time dynamic programming, topological order, and subproblems.
 
 **Instructor:** Justin Solomon
-
