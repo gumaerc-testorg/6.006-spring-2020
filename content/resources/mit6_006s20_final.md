@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-006-introduction-to-algorithms-spring-2020/e03194e510866d81da1071da884876e3_MIT6_006S20_final.pdf
+file_size: 265634
 file_type: application/pdf
 learning_resource_types:
 - Exams
