@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-006-introduction-to-algorithms-spring-2020/312027816e1f57dfb087e41b7ca91012_l_A-ig1n8CM.vtt
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2020/312027816e1f57dfb087e41b7ca91012_l_A-ig1n8CM.vtt
 file_size: 123471
 file_type: application/x-subrip
 learning_resource_types: []
