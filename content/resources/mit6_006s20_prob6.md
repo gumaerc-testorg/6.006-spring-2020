@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-006-introduction-to-algorithms-spring-2020/21a093e709c08e5d196970aef23c1148_MIT6_006S20_prob6.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2020/21a093e709c08e5d196970aef23c1148_MIT6_006S20_prob6.pdf
 file_size: 229762
 file_type: application/pdf
 learning_resource_types: []
