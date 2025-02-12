@@ -1,9 +1,9 @@
 ---
+body: ''
 content_type: resource
-description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2020/8d33b3dd726982ae22e109c8ad6a718b_MIT6_006S20_prob8sol.pdf
-file_size: 246111
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2020/mit6_006s20_lec18.pdf
+file_size: 326856
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -11,13 +11,9 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-ocw_type: OCWFile
-parent_title: Practice Problems
-parent_type: CourseSection
-parent_uid: 60da50f1-00f1-a813-476b-6e6a65e98226
 resourcetype: Document
-title: Problem Session 8 Solutions
-uid: 8d33b3dd-7269-82ae-22e1-09c8ad6a718b
+title: 'Lecture 18: Pseudopolynomial'
+uid: 2cea5355-e5fc-4acc-bf32-40d41e629759
 video_files:
   archive_url: ''
   video_captions_file: ''
