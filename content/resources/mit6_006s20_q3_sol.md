@@ -17,7 +17,7 @@ parent_title: Quizzes
 parent_type: CourseSection
 parent_uid: 400e6a8d-35c4-e497-f645-fe19629c58f3
 resourcetype: Document
-title: 6.006 Introduction to Algorithms, Quiz 3 Solutions - DRAFT
+title: Quiz 3 Solutions - DRAFT
 uid: e70afb59-1cbd-e3ba-4509-598c2c148186
 video_files:
   archive_url: ''
