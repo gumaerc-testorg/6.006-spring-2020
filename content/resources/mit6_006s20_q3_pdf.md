@@ -13,7 +13,7 @@ learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 6.006 Introduction to Algorithms, Quiz 3
+title: Quiz 3
 uid: fd686832-83cb-47a9-895f-71973515f691
 video_files:
   archive_url: ''

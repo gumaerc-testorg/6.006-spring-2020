@@ -282,7 +282,7 @@ No problem sessions
 11
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "f62798df-9d80-20e1-c921-30bd76a26f20" "Lecture 18: Dynamic Programming, Part 4: Rods, Subsetsum, Pseudopolynomial notes (PDF)" %}}
+{{% resource_link "2cea5355-e5fc-4acc-bf32-40d41e629759" "Lecture 18: Dynamic Programming, Part 4: Rods, Subsetsum, Pseudopolynomial notes (PDF)" %}}
 
 {{% resource_link "fda666a4-db1d-c65b-3d71-be08115502bd" "Lecture 19: Complexity notes (PDF)" %}}
 

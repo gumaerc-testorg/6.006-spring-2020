@@ -13,7 +13,7 @@ learning_resource_types:
 - Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 6.006 Introduction to Algorithms, Quiz 3 Solutions
+title: Quiz 3 Solutions
 uid: e36c9d8b-92bf-4a49-b5ec-e2bad5d2ef77
 video_files:
   archive_url: ''
