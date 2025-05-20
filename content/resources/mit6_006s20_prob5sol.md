@@ -2,14 +2,15 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2020/2b91b05c8cc3bd419dde27acf5559b79_MIT6_006S20_prob5sol.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2020/2b91b05c8cc3bd419dde27acf5559b79_MIT6_006S20_prob5sol.pdf
 file_size: 257291
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Recitation Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Practice Problems
