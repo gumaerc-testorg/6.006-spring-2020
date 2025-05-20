@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2020/d2f9999a0d1176c0c1c0f2ef55f52ad5_MIT6_006S20_q1_sol.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2020/d2f9999a0d1176c0c1c0f2ef55f52ad5_MIT6_006S20_q1_sol.pdf
 file_size: 315124
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes

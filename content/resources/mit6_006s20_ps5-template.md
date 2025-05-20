@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2020/205af4c0fa89edb14def915ecd59a382_MIT6_006S20_ps5-template.zip
+file: /courses/6-006-introduction-to-algorithms-spring-2020/205af4c0fa89edb14def915ecd59a382_MIT6_006S20_ps5-template.zip
 file_size: 11294
 file_type: application/zip
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Assignments
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
