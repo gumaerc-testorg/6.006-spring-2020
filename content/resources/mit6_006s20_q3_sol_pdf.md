@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2020/mit6_006s20_q3_sol.pdf
+file: courses/6-006-introduction-to-algorithms-spring-2020/mit6_006s20_q3_sol.pdf
 file_size: 230902
 file_type: application/pdf
 image_metadata:
