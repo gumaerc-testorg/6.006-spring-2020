@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '206291664'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Lecture Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,10 +30,9 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/ZLdooNwP7Pw/default.jpg
   video_transcript_file: /courses/6-006-introduction-to-algorithms-spring-2020/d4c6cd4cb920228df44967bf82eb501c_ZLdooNwP7Pw.pdf
 video_metadata:
+  source: youtube
   youtube_id: ZLdooNwP7Pw
 ---
-
 Five example problems are worked. Topics include graph radius, graph schematics, full breadth-first search, and full depth-first search.
 
 **Instructor:** Justin Solomon
-
