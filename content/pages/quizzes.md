@@ -44,9 +44,9 @@ Quiz
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "fd686832-83cb-47a9-895f-71973515f691" "Quiz 3 (PDF)" %}}
+{{% resource_link "df7a2bed-023e-44eb-823d-9e370ca6bbff" "Quiz 3 (PDF)" %}}
 
-{{% resource_link "e36c9d8b-92bf-4a49-b5ec-e2bad5d2ef77" "Quiz 3 Solutions (PDF)" %}}
+{{% resource_link "538e529b-f9b3-453c-b1a2-d51cfa6fbde6" "Quiz 3 Solutions (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 No reviews
