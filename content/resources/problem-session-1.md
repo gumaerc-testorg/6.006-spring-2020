@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '201511080'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Lecture Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,10 +30,9 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/IPSaG9RRc-k/default.jpg
   video_transcript_file: /courses/6-006-introduction-to-algorithms-spring-2020/0395d6349cfd3826afbe8e0b501993f6_IPSaG9RRc-k.pdf
 video_metadata:
+  source: youtube
   youtube_id: IPSaG9RRc-k
 ---
-
 Four examples of worked problems on the asymptotic behavior of functions and double-ended sequence operations. 
 
 **Instructor:** Jason Ku
-

@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '201323184'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Lecture Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,10 +30,9 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/g0bXSXuLVb0/default.jpg
   video_transcript_file: /courses/6-006-introduction-to-algorithms-spring-2020/b0daad0af274767463cc825de2134987_g0bXSXuLVb0.pdf
 video_metadata:
+  source: youtube
   youtube_id: g0bXSXuLVb0
 ---
-
 Five examples of worked problems are given. Topics include drawing pictures of hash tables and reductions from set (hashing bounds) to sequence.
 
 **Instructor:** Erik Demaine
-
