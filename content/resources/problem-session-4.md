@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '208936328'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Lecture Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,10 +30,9 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/MAyraVVYB64/default.jpg
   video_transcript_file: /courses/6-006-introduction-to-algorithms-spring-2020/749cd7f4d838c2377c677ec20cb16796_MAyraVVYB64.pdf
 video_metadata:
+  source: youtube
   youtube_id: MAyraVVYB64
 ---
-
 Five example problems are worked. Topics include sequence rotations, drawing sequence trees, binary search, and programming in Python.
 
 **Instructor:** Jason Ku
-
