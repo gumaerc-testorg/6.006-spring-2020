@@ -30,7 +30,7 @@ This is an introductory course covering elementary data structures (dynamic arra
 Textbooks
 ---------
 
-Written course material will be distributed via notes from lectures and recitations. An additional useful reference is [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) _[Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)_ by Cormen, Leiserson, Rivest, and Stein (Third Edition, MIT Press) ISBN: 9780262033848, commonly known as _CLRS_, though this text is not required for the course.
+Written course material will be distributed via notes from lectures and recitations. An additional useful reference is {{% resource_link "42f193fc-0190-4482-b2cf-0210109e19de" "![Buy at MIT Press](/images/mp_logo.gif)" %}} _{{% resource_link "edaf172b-dab8-44da-968d-1997a1e2d5cf" "Introduction to Algorithms" %}}_ by Cormen, Leiserson, Rivest, and Stein (Third Edition, MIT Press) ISBN: 9780262033848, commonly known as _CLRS_, though this text is not required for the course.
 
 Grading
 -------
